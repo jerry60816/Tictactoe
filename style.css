@@ -2,10 +2,8 @@
 .wrapper {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-  
-    border: 5px solid rgb(179, 210, 245); /* Add an outline */
-    padding: 20px;
-    border-radius: 10px; /* Add rounded corners */
+    border-radius: 70px; /* Add rounded corners */
+    backdrop-filter:blur(10px);
     margin: auto; /* Center the element horizontally */
     width: 60%; /* Adjust the width as needed */
   }
